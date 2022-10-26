@@ -7,7 +7,7 @@
 
 ## Description
 
-- Training and improving my skills in Nest.js framework.
+- Hi, I am Pedro and I use this repository to roadmap my skills in Nest.js framework.
 
 ## Installation
 
